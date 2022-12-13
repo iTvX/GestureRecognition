@@ -1,0 +1,60 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\zijie\Desktop\GestureRecognition\C++\Gesture Recognition" -B "C:\Users\zijie\Desktop\GestureRecognition\C++\Gesture Recognition\cmake-build-debug"
+-- Configuring done
+CMake Error at CMakeLists.txt:21 (add_executable):
+  Cannot find source file:
+
+    leapc_main.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  Cannot find source file:
+
+    Image.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+Call Stack (most recent call first):
+  CMakeLists.txt:84 (add_sample)
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  Cannot find source file:
+
+    Polling.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+Call Stack (most recent call first):
+  CMakeLists.txt:85 (add_sample)
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  Cannot find source file:
+
+    Interpolationc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+Call Stack (most recent call first):
+  CMakeLists.txt:86 (add_sample)
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  Cannot find source file:
+
+    MultiDevice.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+Call Stack (most recent call first):
+  CMakeLists.txt:88 (add_sample)
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  No SOURCES given to target: leapc_example
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

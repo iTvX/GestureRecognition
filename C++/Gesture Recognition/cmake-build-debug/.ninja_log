@@ -1,0 +1,8 @@
+# ninja log v5
+6	105	6907870494019371	CMakeFiles/CallbackSample.dir/CallbackSample.c.obj	df93636f20fc2e81
+1	121	6907870494169371	CMakeFiles/libExampleConnection.dir/ExampleConnection.c.obj	bc98a0158b56a8c3
+121	212	6907870495024537	CallbackSample.exe	9a90ea0ddef6f234
+2	96	6907871233901385	CMakeFiles/ImageSample.dir/ImageSample.c.obj	cb903df671e4b36f
+97	207	6907871234957453	ImageSample.exe	6951ef7b8181a7b8
+0	86	6907871276090318	CMakeFiles/leapc_example.dir/leapc_main.c.obj	ec1bb08f4d709e87
+86	240	6907871277004448	leapc_example.exe	f82ca95b83da4b76

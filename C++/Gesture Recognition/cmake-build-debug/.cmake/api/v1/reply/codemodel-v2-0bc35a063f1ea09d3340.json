@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leapc_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CallbackSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CallbackSample-Debug-26169a789e2c1bca25bd.json",
+					"name" : "CallbackSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ImageSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ImageSample-Debug-eae8a9f4d22d4b3725b5.json",
+					"name" : "ImageSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InterpolationSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InterpolationSample-Debug-dbdd22f33ff7241b7b6c.json",
+					"name" : "InterpolationSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MultiDeviceSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultiDeviceSample-Debug-376fa3d6434fbd658e79.json",
+					"name" : "MultiDeviceSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PollingSample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PollingSample-Debug-80204d96394257d4cb13.json",
+					"name" : "PollingSample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leapc_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leapc_example-Debug-a25b2ebd8dd79c4d9e76.json",
+					"name" : "leapc_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libExampleConnection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libExampleConnection-Debug-ad61b65c91154a5ddb2e.json",
+					"name" : "libExampleConnection",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zijie/Desktop/GestureRecognition/C++/Gesture Recognition/cmake-build-debug",
+		"source" : "C:/Users/zijie/Desktop/GestureRecognition/C++/Gesture Recognition"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
